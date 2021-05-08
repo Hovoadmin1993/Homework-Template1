@@ -1,0 +1,22 @@
+.header{
+    background-image: url(../img/architect.jpg);
+    background-repeat: no-repeat;
+    height: 100vh ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    .h1{
+        font-family: "Segoe UI",Arial,sans-serif;
+        color: #fff;
+        font-weight: 400;
+        font-size: 36px;
+        letter-spacing: 4px;
+        margin: 10px 0;
+        b{
+            padding: 10px 15px;
+            background-color: rgba(0, 0, 0, 0.63);
+        }
+    }
+}
